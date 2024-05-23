@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="twoveloci" size="1.000000 0.709375" />
+    <ImageTarget name="trexbw" size="1.000000 1.000000" />
+    <ImageTarget name="raptorbw" size="1.000000 0.658706" />
+  </Tracking>
+</QCARConfig>
